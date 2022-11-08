@@ -1,6 +1,8 @@
 import 'package:collasable_drawer/screens/home/home_screen.dart';
 import 'package:flutter/material.dart';
 
+//some parts of this code might be inspired from other developers
+
 void main() {
   runApp(const MyApp());
 }

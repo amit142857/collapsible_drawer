@@ -1,6 +1,8 @@
 import 'package:collasable_drawer/components/drawer/custom_drawer.dart';
 import 'package:flutter/material.dart';
 
+//some parts of this code might be inspired from other developers
+
 class HomeScreen extends StatelessWidget {
   const HomeScreen({Key? key}) : super(key: key);
 

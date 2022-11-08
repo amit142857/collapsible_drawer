@@ -24,7 +24,7 @@ class CustomDrawerHeader extends StatelessWidget {
             const Expanded(
               flex: 3,
               child: Text(
-                'FlyCompany',
+                'Collapsable drawer',
                 style: TextStyle(
                   color: Colors.white,
                   fontWeight: FontWeight.bold,

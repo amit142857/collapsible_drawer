@@ -35,7 +35,7 @@ class BottomUserInfo extends StatelessWidget {
                       child: ClipRRect(
                         borderRadius: BorderRadius.circular(20),
                         child: Image.network(
-                          'https://t3.ftcdn.net/jpg/02/99/21/98/360_F_299219888_2E7GbJyosu0UwAzSGrpIxS0BrmnTCdo4.jpg',
+                          'https://scontent.fbir1-1.fna.fbcdn.net/v/t1.6435-9/118020626_3337666983124603_8490678745292983428_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=ad2b24&_nc_ohc=02b1bYsthdAAX_UmqLy&_nc_ht=scontent.fbir1-1.fna&oh=00_AT-RBbyQntztfQ_8qMsfYANcITInPpBHqOo8_Jt5hHW8pw&oe=61DC2AB9',
                           fit: BoxFit.cover,
                         ),
                       ),
@@ -51,7 +51,7 @@ class BottomUserInfo extends StatelessWidget {
                           child: Align(
                             alignment: Alignment.bottomLeft,
                             child: Text(
-                              'User Name',
+                              'Amit yadav',
                               style: TextStyle(
                                 color: Colors.white,
                                 fontWeight: FontWeight.bold,
@@ -64,7 +64,7 @@ class BottomUserInfo extends StatelessWidget {
                         ),
                         Expanded(
                           child: Text(
-                            'MEMBER',
+                            'Admin',
                             style: TextStyle(
                               color: Colors.grey,
                             ),
@@ -106,7 +106,7 @@ class BottomUserInfo extends StatelessWidget {
                     child: ClipRRect(
                       borderRadius: BorderRadius.circular(20),
                       child: Image.network(
-                        'https://t3.ftcdn.net/jpg/02/99/21/98/360_F_299219888_2E7GbJyosu0UwAzSGrpIxS0BrmnTCdo4.jpg',
+                        'https://scontent.fbir1-1.fna.fbcdn.net/v/t1.6435-9/118020626_3337666983124603_8490678745292983428_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=ad2b24&_nc_ohc=02b1bYsthdAAX_UmqLy&_nc_ht=scontent.fbir1-1.fna&oh=00_AT-RBbyQntztfQ_8qMsfYANcITInPpBHqOo8_Jt5hHW8pw&oe=61DC2AB9',
                         fit: BoxFit.cover,
                       ),
                     ),
